@@ -9,6 +9,15 @@ $pageid = '849182348567531';
 //print_r(json_decode($feed));
 //echo $longtoken = file_get_contents('https://graph.facebook.com/v2.10/oauth/access_token?grant_type=fb_exchange_token&client_id='.$appid.'&client_secret='.$secret.'&fb_exchange_token='.$shot_token);
 
+/*
+
+$appid = '1321925394597436';
+$secret = 'b49d555e04d085ccccad4b974f45eb92';
+$page_id = '849182348567531';
+$page_access_token = 'EAASySL2QhjwBABzdhWIRbCQUxGU6QhXUxeVvUCdPyQZC8UekVQq0Gid3L7ZCMe3vAIXVWQYj2x1z3PB0DsvuQLzIBWc9bAgW7kEFQIwbq6p9bX7lnqQXax4xSUbmPomsYwkijMXmqBvudWxniC0gdeZBd0OQbN9VHUK80fGEAZDZD';
+
+*/
+
 
 $page_access_token = 'EAASySL2QhjwBABzdhWIRbCQUxGU6QhXUxeVvUCdPyQZC8UekVQq0Gid3L7ZCMe3vAIXVWQYj2x1z3PB0DsvuQLzIBWc9bAgW7kEFQIwbq6p9bX7lnqQXax4xSUbmPomsYwkijMXmqBvudWxniC0gdeZBd0OQbN9VHUK80fGEAZDZD';
 $page_id = '849182348567531';
