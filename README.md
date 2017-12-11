@@ -70,7 +70,7 @@ The JSON response should have a data field under which is an array of items the 
 Put everything inside autopost.php.
 <li>1. You need access token generated as shown above.</li>
 <li>2. Page id from the about of the page on facebook.</li>
-<li>3. Appid and Secret from the Application Development on facebook.</li>>
+<li>3. Appid and Secret from the Application Development on facebook.</li>
 
 <h1> Setting Up the Link </h1>
 <li>1. Paste all the links in the links.txt file.</li>
